@@ -1,3 +1,7 @@
+/*
+* @Author: ITIC. Ruben Cruz Aguilar
+* Fecha: 18-ago-2017
+*/
 function redirect_by_post(purl, pparameters) {
 	
     var form = document.createElement("form"); // crea un formulario temporal donde enviara los datos
